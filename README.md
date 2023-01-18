@@ -7,6 +7,7 @@ The source code of DAPRGNN
 * NetworkX
 * tqdm  
 
+## Run
 * To reproduce our results in Table II and III, run  
 ```linux
 bash run.sh
